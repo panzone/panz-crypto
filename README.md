@@ -7,3 +7,7 @@ Please note that any of these implementations are cryptographically secure. They
 ##pAES
 
 pAES is a simple implementation of AES with 128-bit keys, created for my Advanced Cryptography class. It's very basic and provides only encryptation at the moment, but it presents a simple interface for call the AES internal operations.
+
+##fermatRSA
+
+This is a simple implementation of an attack to RSA using the Fermat factorization written during a challenge in my class. It requires gmp and openssl.
