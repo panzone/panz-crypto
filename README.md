@@ -11,3 +11,7 @@ pAES is a simple implementation of AES with 128-bit keys, created for my Advance
 ##fermatRSA
 
 This is a simple implementation of an attack to RSA using the Fermat factorization written during a challenge in my class. It requires gmp and openssl.
+
+##Square
+
+Square implements a Square attack on a reduced 5-round AES 128 bit. It utilises pAES for the generation of the cyphertexts.
