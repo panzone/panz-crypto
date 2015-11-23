@@ -15,3 +15,7 @@ This is a simple implementation of an attack to RSA using the Fermat factorizati
 ##Square
 
 Square implements a Square attack on a reduced 5-round AES 128 bit. It utilises pAES for the generation of the cyphertexts.
+
+##CSPRNG
+
+This is an implementation of Blum Micali pseudorandom number generator. It requires gmp.
