@@ -19,3 +19,7 @@ Square implements a Square attack on a reduced 5-round AES 128 bit. It uses pAES
 ## CSPRNG
 
 This is an implementation of Blum Micali pseudorandom number generator. It requires gmp.
+
+## PBKDF2
+
+This is an implementation of PBKDF2-HMAC-SHA1 key derivation function. It requires openssl.
